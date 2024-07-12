@@ -16,7 +16,7 @@ const Banner = () => {
               Computer Engineering
             </h1>
             <p className="max-md:text-sm">
-              142,765 Computer Engineers follow this
+              142,765 Computer Engineers Follow This
             </p>
           </div>
         </div>
